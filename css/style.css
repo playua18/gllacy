@@ -16,7 +16,7 @@ html {
   width: 1146px;
 }
 
-.clearfix {
+.clearfix::after {
   display: table;
   clear: both;
   content: "";
